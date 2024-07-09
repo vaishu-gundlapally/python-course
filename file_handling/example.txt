@@ -1,0 +1,4 @@
+welcome to file handling concepts 
+to create new line use 
+use path or file name to open
+append mode add this line

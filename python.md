@@ -58,3 +58,11 @@ when object is created the first thing called is the constructor.
 case study
 
 # pandas
+- importing pandas
+- creating dataframe for the sample data using numpy
+- to convert to json,csv
+1. Filtering and ordering
+2. Aggregation and group by
+3. Indexing
+4. Joins, Merge
+5. Visualize
